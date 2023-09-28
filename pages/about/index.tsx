@@ -175,32 +175,35 @@ const aboutData = [
     ],
   },
   {
-    title: 'awards',
-    info: [
-      {
-        title: 'Webby Awards - Honoree',
-        stage: '2011 - 2012',
-      },
-      {
-        title: 'Adobe Design Achievement Awards - Finalist',
-        stage: '2009 - 2010',
-      },
-    ],
-  },
-  {
     title: 'experience',
     info: [
       {
-        title: 'UX/UI Designer - XYZ Company',
-        stage: '2012 - 2023',
+        title: 'Senior Software Engineer - Fullstack Labs',
+        stage: '2021 - 2023',
       },
       {
-        title: 'Web Developer - ABC Agency',
-        stage: '2010 - 2012',
+        title: 'Tech Lead - Talma',
+        stage: '2022 - 2023',
       },
       {
-        title: 'Intern - DEF Corporation',
-        stage: '2008 - 2010',
+        title: 'Senior Node.js Engineer - Globant',
+        stage: '2021 - 2022',
+      },
+      {
+        title: 'Senior Backend Engineer - Rimac Seguros',
+        stage: '2021 - 2022',
+      },
+      {
+        title: 'Senior Backend Engineer - INDRA',
+        stage: '2019 - 2021',
+      },
+      {
+        title: 'Fullstack Engineer - ITP Peru',
+        stage: '2018 - 2019',
+      },
+      {
+        title: 'Fullstack Engineer - Green Airport',
+        stage: '2018 - 2018',
       },
     ],
   },
@@ -208,16 +211,12 @@ const aboutData = [
     title: 'credentials',
     info: [
       {
-        title: 'Web Development - ABC University, LA, CA',
-        stage: '2011',
+        title: 'Solutions Architect Associate - BSG Institute',
+        stage: '2022 - 2022',
       },
       {
-        title: 'Computer Science Diploma - AV Technical Institute',
-        stage: '2009',
-      },
-      {
-        title: 'Certified Graphic Designer - ABC Institute, Los Angeles, CA',
-        stage: '2006',
+        title: 'Systems Engineering (Bachelor degree) - UPN',
+        stage: '2014 - 2018',
       },
     ],
   },

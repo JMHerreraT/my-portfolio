@@ -1,4 +1,4 @@
-import { RxArrowTopRight, RxCrop, RxDesktop, RxPencil2, RxReader, RxRocket } from 'react-icons/rx'
+import { RxArrowTopRight, RxDashboard, RxDesktop, RxPencil2 } from 'react-icons/rx'
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // import Swiper and modules styles
@@ -12,29 +12,19 @@ import { FreeMode, Pagination } from 'swiper/modules';
 // data
 const serviceData = [
   {
-    icon: <RxCrop />,
-    title: 'Branding',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-  },
-  {
     icon: <RxPencil2 />,
     title: 'Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: '',
   },
   {
     icon: <RxDesktop />,
     title: 'Development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: '',
   },
   {
-    icon: <RxReader />,
-    title: 'Copywriting',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
-  },
-  {
-    icon: <RxRocket />,
-    title: 'SEO',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    icon: <RxDashboard />,
+    title: 'Project Architecture',
+    description: '',
   },
 ];
 
